@@ -1,3 +1,4 @@
+![build label](https://img.shields.io/travis/joyent/node.svg)
 # Signal Duplicator
 
 With this project I want to make a signal duplicator. There will be a listen mode 
